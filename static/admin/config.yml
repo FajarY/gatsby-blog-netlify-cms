@@ -134,8 +134,8 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
       - file: "src/pages/products/index.md"
-        label: "Products Page"
-        name: "products"
+        label: "Portfolio Page"
+        name: "portfolios"
         fields:
           - {
               label: "Template Key",

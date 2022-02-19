@@ -1,8 +1,8 @@
 ---
-heading: Portofolios
+heading: Portfolios
 path: /products
 templateKey: product-page
-title: My Portofolio
+title: My Portfolios
 image: /img/jumbotron.jpg
 description: All of my applied experience on Programming and Game designing.
 intro:
